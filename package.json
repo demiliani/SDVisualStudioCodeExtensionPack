@@ -2,7 +2,7 @@
     "name": "sd-extpack-d365bc",
     "displayName": "SD Extension Pack for D365BC",
     "description": "Extension Pack for Dynamics 365 Business Central and AL developers",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "SDExtPackLogo.png",
     "publisher": "StefanoDemiliani",
     "engines": {
