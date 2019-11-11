@@ -2,7 +2,7 @@
     "name": "sd-extpack-d365bc",
     "displayName": "SD Extension Pack for D365BC",
     "description": "Extension Pack for Dynamics 365 Business Central and AL developers",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "SDExtPackLogo.png",
     "publisher": "StefanoDemiliani",
     "engines": {
@@ -23,7 +23,8 @@
         "gruntfuggly.todo-tree",
         "streetsidesoftware.code-spell-checker",
         "alefragnani.bookmarks",
-        "ms-vsliveshare.vsliveshare"
+        "ms-vsliveshare.vsliveshare",
+        "nobuhito.printcode"
     ],
     "repository": {
         "type": "git",
