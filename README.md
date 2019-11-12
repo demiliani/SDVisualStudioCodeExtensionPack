@@ -86,5 +86,36 @@ https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode
 If you're so crazy, you can print your code from VSCode!
 ![PrintCode](https://raw.githubusercontent.com/nobuhito/vscode.printcode/master/printcode.gif?raw=true)
 
+## Better Comments:
+https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+
+Improve your code commenting by annotating with alert, informational, TODOs, and more!
+![Better Comments](https://github.com/aaron-bond/better-comments/raw/master/images/better-comments.PNG)
+
+## Insert GUID:
+https://marketplace.visualstudio.com/items?itemName=heaths.vscode-guid
+
+A simple command extension for Visual Studio Code to insert globally unique identifiers (GUIDs) into the Code text editor in a variety of formats.
+![Insert GUID](https://media.giphy.com/media/3danYPtfh3iQBjd6ef/giphy.gif)
+
+## SQL Server (mssql):
+https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
+
+Welcome to mssql for Visual Studio Code! An extension for developing Microsoft SQL Server, Azure SQL Database and SQL Data Warehouse everywhere with a rich set of functionalities.
+![SQL Server](https://github.com/Microsoft/vscode-mssql/raw/master/images/mssql-demo.gif)
+
+## Git History:
+https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
+
+View git log, file history, compare branches or commits
+![Git History](https://raw.githubusercontent.com/DonJayamanne/gitHistoryVSCode/master/images/gitLogv2.gif)
+
+## Git Graph:
+https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+
+View a Git Graph of your repository, and perform Git actions from the graph.
+![Git Graph](https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif)
+
+
 
 **Enjoy!**
