@@ -116,6 +116,29 @@ https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
 View a Git Graph of your repository, and perform Git actions from the graph.
 ![Git Graph](https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif)
 
+## TODO Highlight
+https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
 
+Highlight TODO, FIXME and other annotations within your code.
+![TODO Highlight](https://github.com/wayou/vscode-todo-highlight/raw/master/assets/material-night-eighties.png)
+
+## Open File
+https://marketplace.visualstudio.com/items?itemName=Fr43nk.seito-openfile
+
+This extension enables the user to open a file under the current cursor position. Just right-click on a pathname within a open document and select the open file under cursor option (or just press Alt + P without right-click). If the file is found by vscode then it will open a new tab with this file.
+If the string is has an tailing number separated by a colon (i.e. :23) it will open the file at the specified line number. :23:45 means line 23 column 45.
+It is also possible to select one or more text segments in the document and open them.
+
+## Polacode
+https://marketplace.visualstudio.com/items?itemName=pnp.polacode
+
+Polaroid for your code: take wonderful screenshots of your code.
+![Polacode](https://github.com/octref/polacode/raw/master/demo/usage.gif)
+
+## Vscode Google Translate
+https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate
+
+Quickly translate text right in your code.
+![Vscode Google Translate](https://github.com/funkyremi/vscode-google-translate/raw/master/demo.gif)
 
 **Enjoy!**
