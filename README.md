@@ -141,4 +141,16 @@ https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-tran
 Quickly translate text right in your code.
 ![Vscode Google Translate](https://github.com/funkyremi/vscode-google-translate/raw/master/demo.gif)
 
+## NAB AL Tools 
+https://marketplace.visualstudio.com/items?itemName=nabsolutions.nab-al-tools
+
+This extensions is a tool that helps with AL development (XLIFF management)
+![NAB AL Tools](https://github.com/jwikman/nab-al-tools/raw/master/images/gifs/RefreshFromGXlf.gif)
+
+## AL Test Runner 
+https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner
+
+The AL Test Runner extension adds features to help run your Business Central tests and digest the results in VS Code. Run specified tests against your local Business Central Docker container and save the results. Test methods are decorated according to the test results. Hover over the method name for more information.
+![AL Test Runner ](https://jpearsondotblog.files.wordpress.com/2019/11/run-current-test.gif)
+
 **Enjoy!**
