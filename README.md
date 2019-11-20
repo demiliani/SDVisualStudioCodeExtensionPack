@@ -154,4 +154,10 @@ https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner
 The AL Test Runner extension adds features to help run your Business Central tests and digest the results in VS Code. Run specified tests against your local Business Central Docker container and save the results. Test methods are decorated according to the test results. Hover over the method name for more information.
 ![AL Test Runner ](https://jpearsondotblog.files.wordpress.com/2019/11/run-current-test.gif)
 
+## XLIFF Sync
+https://marketplace.visualstudio.com/items?itemName=rvanbekkum.xliff-sync
+
+A VSCode extension to keep XLIFF translation files in sync with a specified, automatically generated base-XLIFF file.
+![XLIFF Sync] (https://github.com/rvanbekkum/vsc-xliff-sync/raw/master/resources/xliffSync_explorer.gif)
+
 **Enjoy!**
