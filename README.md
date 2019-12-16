@@ -160,4 +160,10 @@ https://marketplace.visualstudio.com/items?itemName=rvanbekkum.xliff-sync
 A VSCode extension to keep XLIFF translation files in sync with a specified, automatically generated base-XLIFF file.
 ![XLIFF Sync] (https://github.com/rvanbekkum/vsc-xliff-sync/raw/master/resources/xliffSync_explorer.gif)
 
+## CSV to Table
+https://marketplace.visualstudio.com/items?itemName=phplasma.csv-to-table
+
+Convert your CSV/TSV/PSV files to an ASCII formatted table.
+![CSV to Table (https://github.com/Plasma/csv-to-table/raw/master/images/demo.gif)]
+
 **Enjoy!**
