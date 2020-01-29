@@ -166,4 +166,11 @@ https://marketplace.visualstudio.com/items?itemName=phplasma.csv-to-table
 Convert your CSV/TSV/PSV files to an ASCII formatted table.
 ![CSV to Table (https://github.com/Plasma/csv-to-table/raw/master/images/demo.gif)]
 
+## Azure Git Repos
+https://marketplace.visualstudio.com/items?itemName=neilbarkhina.gitdownloadazurerepos
+
+This is a VS Code extension to easily download your Git Repos and Projects from the Command Palette. One of the most frustrating parts of downloading your Git code is remembering those pesky remote URLS. This extension makes it so you never have to memorize a URL again! Only supports Git projects hosted in Azure Repos.
+![Azure Git Repos (https://github.com/nbarkhina/AzureGitRepos/raw/master/images/animated_tutorial.gif)]
+
+
 **Enjoy!**

@@ -2,7 +2,7 @@
     "name": "sd-extpack-d365bc",
     "displayName": "SD Extension Pack for Dynamics 365 Business Central",
     "description": "Extension Pack for Dynamics 365 Business Central and AL developers (#MsDyn365BC)",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "icon": "SD_Logo.png",
     "publisher": "StefanoDemiliani",
     "engines": {
@@ -37,7 +37,8 @@
         "nabsolutions.nab-al-tools",
         "jamespearson.al-test-runner",
         "rvanbekkum.xliff-sync",
-        "phplasma.csv-to-table"
+        "phplasma.csv-to-table",
+        "neilbarkhina.gitdownloadazurerepos"
     ],
     "repository": {
         "type": "git",
