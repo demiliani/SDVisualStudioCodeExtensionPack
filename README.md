@@ -178,5 +178,11 @@ https://marketplace.visualstudio.com/items?itemName=EdySpider.alstructurecreator
 This extension allows you to create the folder structure for AL projects.
 ![AL Structure Creator (https://github.com/edyspider/ALStructureCreator/raw/master/images/ES-AL-SC_CreateStructure.gif)]
 
+## Azure Virtual Machine
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines
+
+Create and manage Azure Virtual Machines directly from VS Code.
+![Azure Virtual Machine (https://github.com/microsoft/vscode-azurevirtualmachines/raw/master/resources/readme/createAzureVM.png)]
+
 
 **Enjoy!**
