@@ -184,5 +184,12 @@ https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevi
 Create and manage Azure Virtual Machines directly from VS Code.
 ![Azure Virtual Machine (https://github.com/microsoft/vscode-azurevirtualmachines/raw/master/resources/readme/createAzureVM.png)]
 
+## Rainbow CSV
+https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv
+
+Highlight columns in comma (.csv), tab (.tsv), semicolon and pipe - separated files in different colors
+Provide info about column on hover
+Run queries in SQL-like language
+![Rainbow CSV (https://i.imgur.com/PRFKVIN.png)]
 
 **Enjoy!**
