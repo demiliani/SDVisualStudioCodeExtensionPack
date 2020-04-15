@@ -192,4 +192,10 @@ Provide info about column on hover
 Run queries in SQL-like language
 ![Rainbow CSV (https://i.imgur.com/PRFKVIN.png)]
 
+## Live Share Whiteboard
+https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard
+
+Live Share Whiteboard enhances the existing Visual Studio Live Share experience, by enabling you to open an integrated whiteboard, without needing to use a seperate tool or service. All participants within a Live Share session can collaboratively draw on the whiteboard, and see each others changes in real-time.
+![Live Share Whiteboard (https://user-images.githubusercontent.com/116461/50567457-dddaba00-0cf9-11e9-840b-1b0a984d5ad9.gif)]
+
 **Enjoy!**
