@@ -1,7 +1,7 @@
 # Visual Studio Code Extension Pack for Dynamics 365 Business Central Developers"
 
-This pack contains a set of useful Visual Studio Code extensions that can simplify the life of a Dynamics 365 Business Central Developer (AL language).
-Just install the package and all these extensions (installation and update) will be automatically managed for you.
+This pack contains a set of useful Visual Studio Code extensions that can simplify and improve the life of a Dynamics 365 Business Central Developer (AL language).
+Just install the package and all these extensions (installation and update) will be automatically managed for you. New features will be added periodically.
 
 This package includes:
 ## AL Language:
@@ -195,7 +195,13 @@ Run queries in SQL-like language
 ## Live Share Whiteboard
 https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard
 
-Live Share Whiteboard enhances the existing Visual Studio Live Share experience, by enabling you to open an integrated whiteboard, without needing to use a seperate tool or service. All participants within a Live Share session can collaboratively draw on the whiteboard, and see each others changes in real-time.
+Live Share Whiteboard enhances the existing Visual Studio Live Share experience, by enabling you to open an integrated whiteboard, without needing to use a separate tool or service. All participants within a Live Share session can collaboratively draw on the whiteboard, and see each others changes in real-time.
 ![Live Share Whiteboard (https://user-images.githubusercontent.com/116461/50567457-dddaba00-0cf9-11e9-840b-1b0a984d5ad9.gif)]
+
+## AL CodeActions
+https://marketplace.visualstudio.com/items?itemName=davidfeldhoff.al-codeactions
+
+This extension provides code actions to the diagnostics reported by the AL Language extension.
+![AL CodeActions (https://github.com/DavidFeldhoff/al-codeactions/raw/master/images/createprocedures.gif)]
 
 **Enjoy!**
