@@ -204,4 +204,10 @@ https://marketplace.visualstudio.com/items?itemName=davidfeldhoff.al-codeactions
 This extension provides code actions to the diagnostics reported by the AL Language extension.
 ![AL CodeActions (https://github.com/DavidFeldhoff/al-codeactions/raw/master/images/createprocedures.gif)]
 
+## AL XML Documentation
+https://marketplace.visualstudio.com/items?itemName=365businessdevelopment.bdev-al-xml-doc
+
+Generate XML documentation comments for AL language in Visual Studio Code and generate markdown files from Source Code.
+![AL XML Documentation (https://365businessdev.visualstudio.com/4cb83d4a-eb34-4814-b956-f9f37c442462/_apis/git/repositories/ee60b269-870f-4369-8cf5-1e5ffb21c10b/items?path=/bdev-al-xml-doc/doc/AddXmlDocComment.gif&versionDescriptor%5bversionOptions%5d=0&versionDescriptor%5bversionType%5d=0&versionDescriptor%5bversion%5d=master&resolveLfs=true&$format=octetStream&api-version=5.0)]
+
 **Enjoy!**
