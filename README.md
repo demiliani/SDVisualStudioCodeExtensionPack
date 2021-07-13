@@ -3,6 +3,8 @@
 This pack contains a set of useful Visual Studio Code extensions that can simplify and improve the life of a Dynamics 365 Business Central Developer (AL language).
 Just install the package and all these extensions (installation and update) will be automatically managed for you. New features will be added periodically.
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/demiliani/SDVisualStudioCodeExtensionPack)
+
 This package includes:
 ## AL Language:
 https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al
